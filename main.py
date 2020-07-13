@@ -142,5 +142,5 @@ def main(): #this function gives the user the option to play again. if they pres
         play(word)
 
 
-if __name__ == "__main__": #runs the script on the command line
+if __name__ == "__main__":  #runs the script on the command line
     main()
